@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm L1F3atbhss</h1>
+<h1 align="center">Hi 👋, I'm logi-89</h1>
 <h3 align="center">A passionate student writing code</h3>
 
 - 🔭 I’m currently working on [NeuroSD](https://blueprint.hackclub.com/projects/8953)
